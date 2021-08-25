@@ -55,7 +55,7 @@ const createAutoComplete = ({root, renderOption, onOptionSelect, inputValue, fet
     
                 resultsWrapper.appendChild(option);//show movies
               }
-              console.log(items)
+              
     });
     
     
